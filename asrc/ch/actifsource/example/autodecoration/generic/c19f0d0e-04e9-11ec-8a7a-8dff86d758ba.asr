@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="c19f0d0e-04e9-11ec-8a7a-8dff86d758ba">
+  <owns predicate="339930af-f91f-11d9-bb45-5fabdff7c7da">
+    <resource statement-guid="0ca8cc23-04ea-11ec-8a7a-8dff86d758ba" type="resource" guid="0ca8cc20-04ea-11ec-8a7a-8dff86d758ba" />
+  </owns>
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="c19f3420-04e9-11ec-8a7a-8dff86d758ba" type="resource" guid="2576b879-f91f-11d9-bb45-5fabdff7c7da" />
+  </predicate>
+  <predicate guid="32d2854d-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="c19fd062-04e9-11ec-8a7a-8dff86d758ba" type="resource" guid="118e9dc4-1b6c-11dd-af33-07ccc9113053" />
+  </predicate>
+  <predicate guid="339930af-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="0ca8cc23-04ea-11ec-8a7a-8dff86d758ba">
+      <resource guid="0ca8cc20-04ea-11ec-8a7a-8dff86d758ba">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="0ca8cc22-04ea-11ec-8a7a-8dff86d758ba" type="resource" guid="ec497706-82e5-11da-bec9-79935dcc853f" />
+        </predicate>
+        <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="0dd39086-04ea-11ec-8a7a-8dff86d758ba" type="literal">decorationTarget</object>
+        </predicate>
+        <predicate guid="ec497726-82e5-11da-bec9-79935dcc853f">
+          <object statement-guid="0ca8cc24-04ea-11ec-8a7a-8dff86d758ba" type="resource" guid="ec497722-82e5-11da-bec9-79935dcc853f" />
+        </predicate>
+        <predicate guid="ec497727-82e5-11da-bec9-79935dcc853f">
+          <object statement-guid="0ca8cc25-04ea-11ec-8a7a-8dff86d758ba" type="resource" guid="ec497723-82e5-11da-bec9-79935dcc853f" />
+        </predicate>
+        <predicate guid="0a52fda9-c0c7-11df-bc15-5b8c4150127a">
+          <object statement-guid="1016f0d7-04ea-11ec-8a7a-8dff86d758ba" type="resource" guid="9cc3a07f-04e9-11ec-8a7a-8dff86d758ba" />
+        </predicate>
+        <predicate guid="e389275d-488a-11e3-8c01-59588b4658e3">
+          <object statement-guid="1107e088-04ea-11ec-8a7a-8dff86d758ba" type="resource" guid="118e9dc5-1b6c-11dd-af33-07ccc9113053" />
+        </predicate>
+      </resource>
+    </object>
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="c19fa951-04e9-11ec-8a7a-8dff86d758ba" type="literal">AutoDecorator</object>
+  </predicate>
+</resource>
+

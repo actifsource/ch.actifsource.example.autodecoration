@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="9cc3a07f-04e9-11ec-8a7a-8dff86d758ba">
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="9cc3c791-04e9-11ec-8a7a-8dff86d758ba" type="resource" guid="2576b879-f91f-11d9-bb45-5fabdff7c7da" />
+  </predicate>
+  <predicate guid="32d2854d-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="9cc463d3-04e9-11ec-8a7a-8dff86d758ba" type="resource" guid="270595db-f91f-11d9-bb45-5fabdff7c7da" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="9cc43cc2-04e9-11ec-8a7a-8dff86d758ba" type="literal">AutoDecorationTarget</object>
+  </predicate>
+</resource>
+
